@@ -30,4 +30,4 @@ git clone <https://github.com/hari-1405/network-port-scanner.git>
 cd network-port-scanner
 
 ##Demo
-![Network Port Scanner Demo](screenshots/scanner-demo.jpg)
+![Network Port Scanner Demo](screenshots/scanner-demo.png)
