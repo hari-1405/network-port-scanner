@@ -21,6 +21,9 @@ networking and cybersecurity fundamentals.
 - TCP/IP Networking
 - ThreadPoolExecutor
 
+##Demo
+![Network Port Scanner Demo](screenshots/scanner-demo.png)
+
 ## Installation
 
 Clone the repository:
@@ -28,6 +31,3 @@ Clone the repository:
 ```bash
 git clone <https://github.com/hari-1405/network-port-scanner.git>
 cd network-port-scanner
-
-##Demo
-![Network Port Scanner Demo](screenshots/scanner-demo.png)
