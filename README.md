@@ -26,5 +26,5 @@ networking and cybersecurity fundamentals.
 Clone the repository:
 
 ```bash
-git clone <your-repository-url>
+git clone <https://github.com/hari-1405/network-port-scanner.git>
 cd network-port-scanner
